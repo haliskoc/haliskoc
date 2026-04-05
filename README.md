@@ -1,74 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Halis!+👋;AI+%26+ML+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Halis+Koc;AI+%26+ML+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Crafting intelligent solutions through Data and Machine Learning 🚀</h3>
-
 <p align="center">
-  <i>"Per aspera ad astra"</i> ✨
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haliskoc&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views" />
+  <i>"Per aspera ad astra"</i>
 </p>
 
 ---
 
-## 💫 About Me
-
-- 🧠 I'm deeply passionate about **Artificial Intelligence, Machine Learning, Deep Learning**, and **Data Science**.
-- 🔭 Currently working on **Natural Language Processing (NLP)**, **Time Series Forecasting** (like my Economy data project), and **Smart Automations**.
-- 🌱 My main focus areas include **Large Language Models (LLMs)**, **Data Analysis**, **RAG Systems**, and **Model Optimization**.
-- 👯 I love contributing to open-source AI/ML projects and collaborating on innovative, data-driven ideas.
-- 📫 How to reach me: Feel free to explore my repositories and reach out!
+### **Executive Summary**
+I am a specialized developer focused on **Artificial Intelligence** and **Machine Learning**. My work revolves around building intelligent systems, optimizing neural networks, and extracting actionable insights from complex datasets. I bridge the gap between advanced research and practical, scalable AI applications.
 
 ---
 
-## 🌈 Tech Stack & Tools
-
-<div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Ecosystem & Tools**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+### **Core Competencies**
+- **Neural Architectures:** Large Language Models (LLMs), RAG Systems, NLP
+- **Predictive Analytics:** Time Series Forecasting, Financial Data Modeling
+- **Machine Learning Ops:** Model Optimization, Deployment, Data Pipelines
 
 ---
 
-## 🔥 Featured Projects
+### **Technology Stack**
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | Python, SQL, C++, JavaScript |
+| **AI Frameworks** | PyTorch, TensorFlow, Scikit-Learn, HuggingFace |
+| **Data Tools** | Pandas, NumPy, Jupyter, PostgreSQL |
+| **DevOps** | Docker, Git, Linux, n8n |
+
+---
+
+### **Selected Technical Projects**
 
 <div align="center">
   <a href="https://github.com/haliskoc/ekonomi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliskoc&repo=ekonomi&theme=radical&show_icons=true&hide_border=true" alt="Economy Market Analysis"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliskoc&repo=ekonomi&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_border=true" alt="Economy Analytics"/>
   </a>
   <a href="https://github.com/haliskoc/n8nalternativersstelegram-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliskoc&repo=n8nalternativersstelegram-&theme=radical&show_icons=true&hide_border=true" alt="n8n Telegram RSS"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliskoc&repo=n8nalternativersstelegram-&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_border=true" alt="AI Automation"/>
   </a>
 </div>
 
 ---
 
-## 📈 Profil Analytics
+### **GitHub Performance**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haliskoc&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="Halis Github Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliskoc&layout=compact&theme=radical&hide_border=true" alt="Halis Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haliskoc&show_icons=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_border=true&count_private=true" alt="Halis Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliskoc&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&hide_border=true" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haliskoc&label=VISITS&color=58A6FF&style=flat-square" alt="Visits" />
+</p>
