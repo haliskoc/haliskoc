@@ -5,6 +5,10 @@
 <h3 align="center">Crafting intelligent solutions through Data and Machine Learning 🚀</h3>
 
 <p align="center">
+  <i>"Per aspera ad astra"</i> ✨
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=haliskoc&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </p>
 
